@@ -2,7 +2,7 @@
 
 # Cross-Origin Resource Sharing
 CORS = {
-    "paths": ["api/*"],
+    "paths": ["recipes/*"],
     "allowed_methods": ["*"],
     "allowed_origins": ["*"],
     "allowed_headers": ["*"],
